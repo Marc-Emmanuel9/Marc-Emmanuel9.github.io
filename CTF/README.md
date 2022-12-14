@@ -1,2 +1,2 @@
-# Write Up At0M - CTF
+# Write Up At0M - 
 
