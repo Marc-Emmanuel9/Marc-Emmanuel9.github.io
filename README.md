@@ -9,4 +9,5 @@ Ce site concentre tout mes Write Up sur les challenges type RootMe, HackTheBox e
 * [CTF](https://marc-emmanuel9.github.io/CTF/)
 
 ## 🚀 A propos de moi
-Mon pseudo est At0m je suis actuellement étudiant en cybersécurité, infrastructure et logiciel. Mon score sur root me est de <b>150 point</b>
+Mon pseudo est At0m je suis actuellement étudiant en cybersécurité, infrastructure et logiciel.
+📫[Mon Linkedin](https://www.linkedin.com/in/marc-emmanuelmartino/)
