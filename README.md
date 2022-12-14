@@ -1,6 +1,7 @@
 # Write Up At0M
 
 ![Logo](https://marc-emmanuel9.github.io/Ressources/CTF.png)
+![Logo](https://marc-emmanuel9.github.io/Ressources/Root.svg)
 
 ## Introduction
 Ce site concentre tout mes Write Up sur les challenges type RootMe, HackTheBox et les différents CTF auxquel j'aurais pu participer 
