@@ -5,3 +5,6 @@
 No clue. 
 
 ## Solution
+
+-------------
+[Page précedente](https://marc-emmanuel9.github.io/Root%20Me/)
