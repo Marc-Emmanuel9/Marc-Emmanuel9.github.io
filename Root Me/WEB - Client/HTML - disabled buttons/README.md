@@ -6,7 +6,9 @@ This form is disabled and can not be used. It’s up to you to find a way to use
 
 ## Solution
 
-Le challenge root-me commence sur le site : http://challenge01.root-me.org/web-client/ch25/. On arrive alors sur le site suivant :
+Le challenge root-me commence sur le site : <b><u>http://challenge01.root-me.org/web-client/ch25/.</u></b> 
+
+On arrive alors sur le site suivant :
 
 ![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/HTML%20-%20disabled%20buttons/Ressources/Photo_site.jpg)
 
