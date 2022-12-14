@@ -1,6 +1,6 @@
 # Write Up At0M - Root Me
 
-## Description du challenge
+## Description du challenge - Javascript - Obfuscation 1
 
 Aucune information 
 

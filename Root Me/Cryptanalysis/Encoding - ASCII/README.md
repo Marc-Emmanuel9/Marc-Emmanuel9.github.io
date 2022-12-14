@@ -1,8 +1,8 @@
 # Write Up At0M - Root Me
 
-## Description du challenge
+## Description du challenge - Encoding - ASCII
 
-Aucune information 
+Decode the string.
 
 ## Solution
 

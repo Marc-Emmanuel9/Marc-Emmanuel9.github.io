@@ -1,8 +1,8 @@
 # Write Up At0M - Root Me
 
-## Description du challenge
+## Description du challenge - Javascript - Webpack
 
-Steal the administrator session cookie and use it to validate this chall.
+Find the password.
 
 ## Solution
 

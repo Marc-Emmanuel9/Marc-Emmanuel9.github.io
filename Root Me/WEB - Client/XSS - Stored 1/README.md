@@ -1,8 +1,8 @@
 # Write Up At0M - Root Me
 
-## Description du challenge
+## Description du challenge - XSS - Stored 1
 
-Find the password.
+Steal the administrator session cookie and use it to validate this chall.
 
 ## Solution
 
