@@ -16,9 +16,9 @@ Le flag pour valider le challenge est : <b>2ac376481ae546cd689d5b91275d324e</b>
 
 ### Deuxième solution - Faire un script
 
-'''python
-print("Hello World !")
-'''
+```python
+  print("Hello World !")
+```
 
 -------------
 [Page précedente](https://marc-emmanuel9.github.io/Root%20Me/)
