@@ -6,7 +6,7 @@ This form is disabled and can not be used. It’s up to you to find a way to use
 
 ## Solution
 
-Le challenge root-me commence sur le site : <b><u>http://challenge01.root-me.org/web-client/ch25/.</u></b> 
+Le challenge root-me commence sur le site : <b><u>http://challenge01.root-me.org/web-client/ch25/</u></b>.
 
 On arrive alors sur le site suivant :
 
