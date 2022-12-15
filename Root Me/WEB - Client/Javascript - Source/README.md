@@ -10,6 +10,8 @@ Le challenge root-me commence sur le site : <b><u>http://challenge01.root-me.org
 
 On arrive alors sur le site suivant :
 
+![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Source/Ressources/Photo_site.jpg)
+
 J'ai decidé d'aller jetter un coup d'oeil dans l'inspecteur d'élément (Sources).
 
 On a le code suivant :
@@ -38,7 +40,7 @@ On a le code suivant :
 
 On remarque que dans le code js le mot de passe est directement affiché en clair.
 
-> Le flag sera : <b>123456azerty</b>
+`Le flag sera : <b>123456azerty</b>`
 
 -------------
 [Page précedente](https://marc-emmanuel9.github.io/Root%20Me/)
