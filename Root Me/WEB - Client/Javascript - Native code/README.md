@@ -30,5 +30,23 @@ On a le code suivant :
     </body>
 </html>
 ```
+
+Pour comprendre cette chaine il faudra la de-obfuscer en enlevant le **()** à la fin et en le remplacant par **toString()**. On obtient alors le code :
+
+```javascript
+function anonymous(\n) {
+    a=prompt('Entrez le mot de passe');
+    if(a=='toto123lol'){
+        alert('bravo');
+    }else{
+        alert('fail...');
+    }
+}
+```
+
+>L'obfuscation en informatique désigne l'ensemble des méthodes visant à altérer la lisibilité et la compréhension d'une partie d'un code source sans en changer le fonctionnement.
+
+`Le flag est : toto123lol`
+
 -------------
 [Page précedente](https://marc-emmanuel9.github.io/Root%20Me/)
