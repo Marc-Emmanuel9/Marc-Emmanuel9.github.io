@@ -49,14 +49,13 @@ J'ai alors décider de supprimer cette attribut comme ci-dessous :
    <body><link rel='stylesheet' property='stylesheet' id='s' type='text/css' href='/template/s.css' media='all' /><iframe id='iframe' src='https://www.root-me.org/?page=externe_header'></iframe>
         <h1>Website temporarily closed.</h1>
         <hr>
-
         <form action="" method="post" name="authform">
             <div>
                 <input type="text" name="auth-login" value="" />
                 <input type="submit" value="Member access" name="authbutton" />
             </div>
         </form>
-            </body>
+    </body>
 </html>
 ```
 
