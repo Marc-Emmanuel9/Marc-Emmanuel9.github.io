@@ -10,7 +10,7 @@ Le challenge root-me commence sur le site : <b><u>http://challenge01.root-me.org
 
 On arrive alors sur le site suivant :
 
-![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Authentification%202/Ressources/Photo_site.jpg)
+![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Authentication%202/Ressources/Photo_site.jpg)
 
 J'ai decidé d'aller jetter un coup d'oeil dans l'inspecteur d'élément (Sources).
 
