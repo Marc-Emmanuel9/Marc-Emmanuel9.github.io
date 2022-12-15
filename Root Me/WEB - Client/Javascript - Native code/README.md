@@ -34,7 +34,7 @@ On a le code suivant :
 Pour comprendre cette chaine il faudra la de-obfuscer en enlevant le **()** à la fin et en le remplacant par **toString()**. On obtient alors le code :
 
 ```javascript
-function anonymous(\n) {
+function anonymous() {
     a=prompt('Entrez le mot de passe');
     if(a=='toto123lol'){
         alert('bravo');
