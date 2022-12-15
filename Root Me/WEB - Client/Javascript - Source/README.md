@@ -40,7 +40,7 @@ On a le code suivant :
 
 On remarque que dans le code js le mot de passe est directement affiché en clair.
 
-`Le flag sera : <b>123456azerty</b>`
+`Le flag sera : 123456azerty`
 
 -------------
 [Page précedente](https://marc-emmanuel9.github.io/Root%20Me/)

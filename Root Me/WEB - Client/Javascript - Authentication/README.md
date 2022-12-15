@@ -53,7 +53,7 @@ function Login(){
 
 On remarque que dans le code js les credentials sont directement affiché en clair.
 
-Le flag sera : <b>sh.org</b>
+`Le flag sera : sh.org`
 
 -------------
 [Page précedente](https://marc-emmanuel9.github.io/Root%20Me/)

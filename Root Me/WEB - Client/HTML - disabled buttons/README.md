@@ -67,7 +67,7 @@ Après avoir soumis le formulaire (pas besoin de le remplir) on obtient enfin le
 
 ![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/HTML%20-%20disabled%20buttons/Ressources/Photo_flag.jpg)
 
-Le flag pour valider le challenge est : <b>HTMLCantStopYou</b>
+`Le flag pour valider le challenge est : HTMLCantStopYou`
 
 -------------
 [Page précedente](https://marc-emmanuel9.github.io/Root%20Me/)
