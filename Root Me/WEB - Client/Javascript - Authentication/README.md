@@ -12,7 +12,9 @@ On arrive alors sur le site suivant :
 
 ![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Authentication/Ressources/Photo_site.jpg)
 
-On a le code html suivant :
+J'ai decidé d'aller jetter un coup d'oeil dans l'inspecteur d'élément (Sources).
+
+On a les code suivant :
 
 ```html
 <html>
@@ -31,8 +33,6 @@ On a le code html suivant :
     </body>
 </html>
 ```
-
-On a le code js suivant :
 
 ```javascript
 /* <![CDATA[ */
