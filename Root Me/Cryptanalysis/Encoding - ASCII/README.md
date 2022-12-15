@@ -20,9 +20,12 @@ Le flag pour valider le challenge est : <b>2ac376481ae546cd689d5b91275d324e</b>
 
 ### Deuxième solution - Faire un script
 
-```python
-  chain = 4C6520666C6167206465206365206368616C6C656E6765206573743A203261633337363438316165353436636436383964356239313237356433323465
+Voici un script python simple permettant d'arriver à la même solution :
 
+```python
+  chain = "4C6520666C6167206465206365206368616C6C656E6765206573743A203261633337363438316165353436636436383964356239313237356433323465"
+  flag = bytes.fromhex(chain).decode("ASCII")
+  print(flag)
 ```
 
 On obtient alors en sortie du code : <b>Le flag de ce challenge est: 2ac376481ae546cd689d5b91275d324e</b>
