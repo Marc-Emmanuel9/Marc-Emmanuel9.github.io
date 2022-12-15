@@ -51,13 +51,7 @@ function Login(){
 /* ]]> */ 
 ```
 
-On remarque que dans le code js les credentials sont directement affiché en clair. On va donc les mettre dans le formulaire présent sur le site : 
-
-![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Authentication/Ressources/Photo_form_remplie.jpg)
-
-Après validation du formulaire, on obtient le message suivant : 
-
-![Image](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Authentication/Ressources/Photo_flag.jpg)
+On remarque que dans le code js les credentials sont directement affiché en clair.
 
 Le flag sera : <b>sh.org</b>
 
