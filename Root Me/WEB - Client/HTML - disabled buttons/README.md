@@ -30,7 +30,7 @@ On a le code suivant :
                 <input disabled type="submit" value="Member access" name="authbutton" />
             </div>
         </form>
-            </body>
+    </body>
 </html>
 ```
 
