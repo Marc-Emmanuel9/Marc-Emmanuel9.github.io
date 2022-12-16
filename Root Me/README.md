@@ -16,7 +16,7 @@ Je vais essayer d'expliquer au mieux ma démarche pour arriver jusqu'au flag.
 * [Javascript - Obfuscation 2](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Obfuscation%202/)
 * [Javascript - Native code](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Native%20code/)
 * [Javascript - Webpack](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Webpack/)
-* [Javascript - Obfuscation 3](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20-Client/Javascript%20-%20Obfuscation%203/)
+* [Javascript - Obfuscation 3](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/Javascript%20-%20Obfuscation%203/)
 * [XSS - Stored 1](https://marc-emmanuel9.github.io/Root%20Me/WEB%20-%20Client/XSS%20-%20Stored%201/)
 
 -------------
