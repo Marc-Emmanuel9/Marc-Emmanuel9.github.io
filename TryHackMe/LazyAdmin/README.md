@@ -4,6 +4,6 @@
 
 Easy linux machine to practice your skills
 
-Lien vers le challenge :https://tryhackme.com/room/lazyadmin
+Lien vers le challenge : [LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
 -------------
